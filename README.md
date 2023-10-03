@@ -4,7 +4,7 @@ Designed for use with the HIBP v3 API with the T1 plan, which is rate limited to
 
 ## To use:
 
-1. Add your API key (required by HIBP) in main.py. You can adjust the sleep timer (defaulst to 7 seconds) as needed based on your API key tier.
+1. Add your API key (required by HIBP) in main.py. Adjust the sleep timer (default is 7 seconds) as needed based on your API key tier.
 2. Provide a newline seperated email list
 3. Run the program.
 
