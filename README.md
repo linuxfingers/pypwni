@@ -28,10 +28,10 @@ If you are using T2 or higher, you can change the sleep timer on line 60 of `pyp
 
 I'd like to make it Pypwni a little more robust in the future by:
 
-- Outputting breach data for emails in console as it comes in, instead of after post-processing.
-- Add the ability to search for a single email.
+- Outputting breach data for emails in console as it comes in, instead of in post-processing.
+- Adding the ability to search for a single email.
 - Exporting custom file names to "dataset" folder with timestamps appended.
 - Adding domain search functionality.
 - Putting in more ponies.
 
-Enjoy! :)
+ 🐎 Enjoy! :)
