@@ -10,8 +10,8 @@ Designed for use with the HIBP v3 API with the T1 plan, which is rate limited to
 
 ## Requirements
 
-Written using Python 3.10.12.
-Requests==2.31.0
+- Written using Python 3.10.12, likely fine in 3.X
+- Requests==2.31.0
 
 ## Future working goals
 
