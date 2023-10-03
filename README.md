@@ -1,5 +1,7 @@
 # PYPWNI v1.0
 
+![image](https://github.com/linuxfingers/pypwni/assets/29472393/492e7f54-0284-4c59-8fe4-3c5e20438614)
+
 This program was written for use with the "Have I Been Pwned?" v3 API, specifically using the Tier 1 API which is rate-limited to 10 requests per minute. 
 
 ## USAGE
