@@ -6,10 +6,15 @@ This program was written for use with the "Have I Been Pwned?" v3 API, specifica
 
 ## USAGE
 
+Clone the entire repo and invoke pypwni from the command line.
+
+### Options:
+
 ```
 -f, --file                  Location of the text file to load.
 -o, --output_file           Where the output file should go.
 ```
+### Syntax:
 
 The command syntax looks like:
 
